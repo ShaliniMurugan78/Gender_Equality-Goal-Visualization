@@ -33,5 +33,5 @@ You can explore the interactive dashboard here:
 - Public gender equality datasets (e.g., UN SDG indicators)
 
 ## Author\
-**Shalini **– Data Enthusiast & Analyst  
+**Shalini**– Data Enthusiast & Analyst  
 
