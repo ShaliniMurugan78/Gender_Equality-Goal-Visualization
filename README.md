@@ -16,7 +16,7 @@ Achieve gender equality and empower all women and girls. End discrimination, vio
 You can explore the interactive dashboard here:  
 [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/shalini.m2901/viz/SDG_17554265076630/Dashboard1)
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/ShaliniMurugan78/Gender_Equality-Goal-Visualization/blob/main/Gender%20inequality%20in%20education%2C%20work%2C%20and%20labour%20force%20restricts%20women%E2%80%99s%20access%20to%20schooling%2C%20fair%20pay%2C%20and%20leadership%20opportunities%20while%20overburdening%20them%20with%20unpaid%20care%20roles.%20(1).png)
 
 ## Files in Repository
 - `Tableau_Dashboard/Gender_Inequality.twbx` – Packaged Tableau workbook.
