@@ -32,6 +32,6 @@ You can explore the interactive dashboard here:
 - Tableau Desktop / Tableau Public
 - Public gender equality datasets (e.g., UN SDG indicators)
 
-## Author
-**Your Name** – Data Enthusiast & Analyst  
+## Author\
+**Shalini **– Data Enthusiast & Analyst  
 
